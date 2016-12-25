@@ -20,7 +20,7 @@ public class DirkTest {
 		
 		for(Harry harry : harries){
 			
-			System.out.println(harry.getHoi());
+			harry.dirge();
 		}
 				
 	}

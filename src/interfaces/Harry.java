@@ -10,6 +10,7 @@ public interface Harry {
 	
 	}
 	
+	
 	public default String getHoi(){
 		return hoi;
 	}
