@@ -1,7 +1,2 @@
 # GitTest
-## intro
-This is mainly for calculating and testing git purposes ( )):::::::::::::::::D~~~GITTED~~~﻿
-
-
-__bold__
-*italic*
+Meant for testing purposes to explore GIT and dump practice/test code
